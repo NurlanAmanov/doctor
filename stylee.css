@@ -1,0 +1,17 @@
+:root{--mavi:#6bc2f1}
+header{background: url('../img/headerbg.jpg') 55% 50%/cover;}
+.text-mavi{color: var(--mavi);}
+.bg-mavi{background-color: var(--mavi);}.bg-boz{background: #f1f1f1;}
+.vh-50{height: 50vh;}
+.bg-body-tertiary{opacity: 80%!important;}
+#f1 { background: url('img/f1.jpg') center/cover }#f2 { background: url('img/f2.jpg') center/cover }
+#f1:hover, #f2:hover { opacity: .6;} 
+.buttonss:hover{ background: #0036e9!important ; color:#fff!important; transition: .3s ease!important;}
+.cardhvr:hover{background: #dddddd; transition: .2s ease; }
+#f1:hover h4, #f2:hover h4 { display: initial!important;}
+.cardimg img{width: 90px;height: 80px;object-fit: contain;}
+.cardgalery{width: 100%; height: auto; object-fit: cover;}
+.caruselBg1 {height: 60vh;background-color: #6bc2f1;}
+.carousel-indicators [data-bs-target] {text-indent: initial !important;height: initial !important;width: initial !important;opacity: initial !important;background-color: transparent !important;transition: 1s !important;}
+.carousel-indicators [data-bs-target] img {border-radius: 50%;width: 60px; height: 60px; }
+.bgfooter{background: #072035;}
