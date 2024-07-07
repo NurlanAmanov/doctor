@@ -9,7 +9,7 @@ header{background: url('../img/headerbg.jpg') 55% 50%/cover;}
 .buttonss:hover{ background: #0036e9!important ; color:#fff!important; transition: .3s ease!important;}
 .cardhvr:hover{background: #dddddd; transition: .2s ease; }
 #f1:hover h4, #f2:hover h4 { display: initial!important;}
-.cardimg img{width: 90px;height: 80px;object-fit: contain;}
+.cardimg img{width: 90px;height: 80px;object-fit: cover;}
 .cardgalery{width: 100%; height: auto; object-fit: cover;}
 .caruselBg1 {height: 60vh;background-color: #6bc2f1;}
 .carousel-indicators [data-bs-target] {text-indent: initial !important;height: initial !important;width: initial !important;opacity: initial !important;background-color: transparent !important;transition: 1s !important;}
