@@ -1,5 +1,5 @@
 :root{--mavi:#6bc2f1}
-header{background: url('../img/headerbg.jpg') 55% 50%/cover;}
+header{background: url('img/headerbg.jpg') 55% 50%/cover;}
 .text-mavi{color: var(--mavi);}
 .bg-mavi{background-color: var(--mavi);}.bg-boz{background: #f1f1f1;}
 .vh-50{height: 50vh;}
