@@ -13,5 +13,6 @@ header{background: url('img/headerbg.jpg') 55% 50%/cover;}
 .cardgalery{width: 100%; height: auto; object-fit: cover;}
 .caruselBg1 {height: 60vh;background-color: #6bc2f1;}
 .carousel-indicators [data-bs-target] {text-indent: initial !important;height: initial !important;width: initial !important;opacity: initial !important;background-color: transparent !important;transition: 1s !important;}
-.carousel-indicators [data-bs-target] img {border-radius: 50%;width: 60px; height: 60px; }
+.carousel-indicators [data-bs-target] img {border-radius: 50%;width: 60px; height: 60px; transition: .4s; } 
+.carousel-indicators img:hover{ scale:  1.2;}
 .bgfooter{background: #072035;}
